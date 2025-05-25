@@ -1,4 +1,4 @@
-# Hi there, I'm Kidus - aka Heiliger <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Kidus <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20&center=true&width=500&height=50&font=Roboto"></a>
 </p>
