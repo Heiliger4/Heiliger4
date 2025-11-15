@@ -3,7 +3,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20&center=true&width=500&height=50&font=Roboto"></a>
 </p>
 <hr/>
-<h4 align="center"> I'm Kidus Paulos, a passionate software developer with  strong background in Computer Science, currently focused on becoming a full-stack developer with an emphasis on AI and machine learning. I love to code, design, and explore new ideas, with a special leaning toward JavaScript. I work across the stack using technologies like Node.js, React, Next.js, and TypeScript, and have experience with Laravel and Flask. Enthusiastic and challenge-driven, I'm always eager to learn, grow, and collaborate on impactful tech solutions.</h4>
+<h4 align="center"> I'm Kidus Paulos, a passionate software developer with a strong background in Computer Science, currently focused on becoming a full-stack developer with an emphasis on AI and machine learning. I love to code, design, and explore new ideas, with a special leaning toward JavaScript. I work across the stack using technologies like Node.js, React, Next.js, and TypeScript, and have experience with Laravel and Flask. Enthusiastic and challenge-driven, I'm always eager to learn, grow, and collaborate on impactful tech solutions.</h4>
 <br>
 <!-- Description about me -->
 <h2 align="center"> 🌟 About me </h2>
